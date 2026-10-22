@@ -54,7 +54,7 @@ A student-focused career discovery app designed to help students explore career 
 - **Stack:** React Native, Expo, TypeScript
 - **Status:** In development
 
-[Explore the repository →](https://github.com/YOUR-USERNAME/Career-discovery)
+[Explore the repository →](https://github.com/Pratiti9Maharana/Career-discovery)
 
 ### Path Pradarshan
 A hackathon project focused on analysing road-network vulnerability, identifying critical connections, and exploring infrastructure resilience.
@@ -68,10 +68,10 @@ A hackathon project focused on analysing road-network vulnerability, identifying
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=transparent&hide_border=true&title_color=56D6A7&icon_color=56D6A7&text_color=9CA3AF" alt="GitHub statistics" width="48%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&theme=transparent&hide_border=true&title_color=56D6A7&text_color=9CA3AF" alt="Most-used languages" width="42%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Pratiti9Maharana&show_icons=true&theme=transparent&hide_border=true&title_color=56D6A7&icon_color=56D6A7&text_color=9CA3AF" alt="GitHub statistics" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pratiti9Maharana&layout=compact&theme=transparent&hide_border=true&title_color=56D6A7&text_color=9CA3AF" alt="Most-used languages" width="42%"/>
 
-<img src="https://streak-stats.demolab.com?user=YOUR-USERNAME&theme=transparent&hide_border=true&ring=56D6A7&fire=56D6A7&currStreakLabel=56D6A7" alt="GitHub contribution streak" width="70%"/>
+<img src="https://streak-stats.demolab.com?user=Pratiti9Maharana&theme=transparent&hide_border=true&ring=56D6A7&fire=56D6A7&currStreakLabel=56D6A7" alt="GitHub contribution streak" width="70%"/>
 
 </div>
 
